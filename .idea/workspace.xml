@@ -37,14 +37,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "T:/1DS-TB/ALUNOS/Murilo Poltronieri/PYTHON/lista_exercicios_python/lista14"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;T:/1DS-TB/ALUNOS/Murilo Poltronieri/PYTHON/lista_exercicios_python/lista14&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.ex10">
+}</component>
+  <component name="RunManager" selected="Python.main">
     <configuration name="ex04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lista14" />
       <option name="INTERPRETER_OPTIONS" value="" />

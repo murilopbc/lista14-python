@@ -11,6 +11,5 @@ soup = BeautifulSoup(response.text, 'html.parser')
 quotes = soup.find_all("span", class_="text")
 
 if quotes:
-    print(f"Citações relacionadas à tag '{tag}':")
     for quote in quotes:
         print(quote.get_text())
